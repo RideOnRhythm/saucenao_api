@@ -1,4 +1,4 @@
-import io
+import _io
 from typing import Optional, BinaryIO
 
 import requests
